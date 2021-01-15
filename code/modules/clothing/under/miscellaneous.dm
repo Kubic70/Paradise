@@ -445,6 +445,24 @@
 	icon_state = "huresource"
 	item_color = "huresource"
 
+/obj/item/clothing/under/dress/qipao_red
+	name = "red qipao"
+	desc = "A Qipao, traditionally worn in ancient Earth China by women during social events and lunar new years."
+	icon_state = "qipao_red"
+	item_color = "qipao_red"
+
+/obj/item/clothing/under/dress/qipao_black
+	name = "black qipao"
+	desc = "A Qipao, traditionally worn in ancient Earth China by women during social events and lunar new years."
+	icon_state = "qipao_black"
+	item_color = "qipao_black"
+
+/obj/item/clothing/under/dress/qipao_white
+	name = "white qipao"
+	desc = "A Qipao, traditionally worn in ancient Earth China by women during social events and lunar new years."
+	icon_state = "qipao_white"
+	item_color = "qipao_white"
+
 /obj/item/clothing/under/dress/plaid_blue
 	name = "blue plaid skirt"
 	desc = "A preppy blue skirt with a white blouse."

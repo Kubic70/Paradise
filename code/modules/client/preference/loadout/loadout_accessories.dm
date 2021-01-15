@@ -138,6 +138,10 @@
 	display_name = "gold locket"
 	path = /obj/item/clothing/accessory/necklace/locket
 
+/datum/gear/accessory/choker
+	display_name = "black choker"
+	path = /obj/item/clothing/accessory/choker
+
 /datum/gear/accessory/necklace
 	display_name = "simple necklace"
 	path = /obj/item/clothing/accessory/necklace

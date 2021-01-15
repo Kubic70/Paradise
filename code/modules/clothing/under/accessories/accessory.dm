@@ -433,6 +433,14 @@
 	icon_state = "stripedbluescarf"
 	item_color = "stripedbluescarf"
 
+//Chokers
+/obj/item/clothing/accessory/choker
+	name = "choker"
+	desc = "Quite fashionable... if you're somebody who's just read their first BDSM-themed erotica novel."
+	icon_state = "choker"
+	item_state = "choker"
+	item_color = "choker"
+
 //Necklaces
 /obj/item/clothing/accessory/necklace
 	name = "necklace"
